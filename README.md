@@ -1,27 +1,29 @@
-# Project Name
+# FCC CAT PHOTOAPP
 
-> One paragraph statement about the project.
+> A cat photoapp using HTML tags to add photos, buttons, and other elements to webpage.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description of the project and its features.
-
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 form elements
+  - `h1`, `h2`, `select`, `form`, `button`, `fieldset`, `footer`, `section`,
+  - `textarea`, `label`, `ìnput`, `option`, `img`, `figcaption` .
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/).
+- GitHub Action
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://fcc-catphotoapp-ismail.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone git@github.com:ismailadekunle/01-fcc-cat-photo-app.git
 
 ```
 
@@ -63,16 +65,14 @@ yarn hint
 
 ## Style Guides
 
-- [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@ismailadekunle](https://github.com/ismailadekunle)
+- Twitter: [@ismailadekunle](https://twitter.com/ismailadekunle)
+- Linkedin: [@ismailAdekunleJIMOH](https://www.linkedin.com/in/ismailAdekunleJIMOH/)
 
 ## 🤝 Contributing
 
@@ -86,9 +86,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- freecodecamp
 
 ## 📝 License
 
