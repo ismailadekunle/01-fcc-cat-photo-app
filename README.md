@@ -4,9 +4,8 @@
 
 ![screenshot](./app_screenshot.png)
 
-Additional description of the project and its features.
-
 ## Built With
+
 - HTML5 form elements
   - `h1`, `h2`, `select`, `form`, `button`, `fieldset`, `footer`, `section`,
   - `textarea`, `label`, `ìnput`, `option`, `img`, `figcaption` .
@@ -66,9 +65,7 @@ yarn hint
 
 ## Style Guides
 
-- [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
@@ -92,5 +89,5 @@ Give a ⭐️ if you like this project!
 - freecodecamp
 
 ## 📝 License
-2023 Ismail Adekunle Jimoh
+
 [MIT licensed](./LICENSE).
